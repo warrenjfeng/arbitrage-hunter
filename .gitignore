@@ -10,3 +10,6 @@ __pycache__/
 
 # Sensitive
 kalshi_private_key.pem
+.env
+.env.*
+*.pem
