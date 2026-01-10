@@ -1,0 +1,12 @@
+# Environment
+.env
+*.pem
+venv/
+__pycache__/
+
+# Data
+*.pyc
+.DS_Store
+
+# Sensitive
+kalshi_private_key.pem
